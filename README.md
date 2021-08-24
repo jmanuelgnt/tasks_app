@@ -1,2 +1,2 @@
 # tasks_manager-api
-Tasks App on nodeJs. API to manage personal tasks.
+API to manage personal tasks, created by Jose Carranza.
